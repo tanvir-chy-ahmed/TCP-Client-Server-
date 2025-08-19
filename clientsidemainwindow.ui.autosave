@@ -34,7 +34,7 @@
      </rect>
     </property>
     <property name="title">
-     <string>Send</string>
+     <string>Connection info</string>
     </property>
     <widget class="QWidget" name="formLayoutWidget">
      <property name="geometry">
