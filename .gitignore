@@ -1,13 +1,16 @@
+# Ignore Qt build folders
 build/
+
+# Ignore object files
 *.o
 *.obj
+
+# Ignore executables and libraries
 *.exe
 *.dll
 *.so
 *.a
+
+# Ignore Qt-specific temporary files
 *.qmake.stash
 *.pro.user
-
-
-/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/
-
